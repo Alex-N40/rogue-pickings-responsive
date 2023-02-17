@@ -123,16 +123,19 @@ header nav ul li a {
 	width: 100%;
 }
 
-.section-one {
-}
+/*.section-one {
+	width: 29%;
+}*/
 
 .section-two {
+	/*width: 42%;*/
 	border-top: 5px solid #EEE;
 	border-bottom: 5px solid #EEE;
 }
 
-.section-three {
-}
+/*.section-three {
+	width: 29%;
+}*/
 
 .bottom-section h3 {
 	margin: 30px 0;
